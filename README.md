@@ -1,4 +1,25 @@
-Loan Calculator in Next JS
+# EMI Calculator
+
+A React EMI(Equated Monthly Installment) Calculator
+
+<img src="https://media.giphy.com/media/grhPNUIutzociIAnM0/giphy.gif" />
+
+
+## How It's Made:
+
+
+
+## Tech used: 
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## Optimizations
+I would like to add a federal and state level tax withheld function to give the users more options.
+
+## Lessons Learned:
+
+I learned that creating a successful project, isn't determined by it's complexity.
 
 Command to Install npm install
 
